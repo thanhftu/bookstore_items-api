@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/thanhftu/bookstore_items-api/clients/elasticsearch"
-	"github.com/thanhftu/bookstore_items-api/domain/items/queries"
+	"github.com/thanhftu/bookstore_items-api/src/clients/elasticsearch"
+	"github.com/thanhftu/bookstore_items-api/src/domain/queries"
 	"github.com/thanhftu/bookstore_utils-go/resterrors"
 )
 

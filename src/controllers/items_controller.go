@@ -7,10 +7,10 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
-	"github.com/thanhftu/bookstore_items-api/domain/items"
-	"github.com/thanhftu/bookstore_items-api/domain/items/queries"
-	"github.com/thanhftu/bookstore_items-api/services"
-	"github.com/thanhftu/bookstore_items-api/utils/httputils"
+	"github.com/thanhftu/bookstore_items-api/src/domain/items"
+	"github.com/thanhftu/bookstore_items-api/src/domain/queries"
+	"github.com/thanhftu/bookstore_items-api/src/services"
+	"github.com/thanhftu/bookstore_items-api/src/utils/httputils"
 	"github.com/thanhftu/bookstore_oauth-go/oauth"
 	"github.com/thanhftu/bookstore_utils-go/resterrors"
 )

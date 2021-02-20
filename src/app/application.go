@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/thanhftu/bookstore_items-api/clients/elasticsearch"
+	"github.com/thanhftu/bookstore_items-api/src/clients/elasticsearch"
 )
 
 var (

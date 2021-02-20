@@ -23,5 +23,5 @@ type Description struct {
 // Picture contain picture info of item
 type Picture struct {
 	ID  int64  `json:"id"`
-	URL string `json:""url`
+	URL string `json:"url"`
 }

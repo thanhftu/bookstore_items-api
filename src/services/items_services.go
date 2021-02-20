@@ -1,8 +1,8 @@
 package services
 
 import (
-	"github.com/thanhftu/bookstore_items-api/domain/items"
-	"github.com/thanhftu/bookstore_items-api/domain/items/queries"
+	"github.com/thanhftu/bookstore_items-api/src/domain/items"
+	"github.com/thanhftu/bookstore_items-api/src/domain/queries"
 	"github.com/thanhftu/bookstore_utils-go/resterrors"
 )
 
